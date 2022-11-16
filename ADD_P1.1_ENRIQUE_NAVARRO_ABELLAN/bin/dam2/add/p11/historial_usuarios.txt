@@ -1,0 +1,8 @@
+a:3:true
+b:3:false
+c:3:false
+d:3:false
+e:3:false
+admin:3:false
+kike:3:false
+pepe:3:false
